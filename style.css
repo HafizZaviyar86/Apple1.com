@@ -1,0 +1,433 @@
+
+
+
+#header {
+    position: sticky;
+    top: 0;
+}
+
+#navbar ul {
+    background-color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding: 10px 150px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-decoration: none;
+}
+
+.apple {
+    width: 12px;
+}
+
+
+.search {
+    width: 20px;
+}
+
+.bag {
+    width: 19px;
+}
+
+/* ------------iPhone 14 Pro------------- */
+
+#middlearea1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#firstbgimg {
+    background-image: url(./ppp/hero_iphone14pro__e5xbgo5ffhg2_large.jpg);
+    color: rgb(255, 255, 255);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    
+}
+
+#firstbgimg h1 {
+    font-size: 60px;
+}
+
+#firstbgimg p {
+    font-size: 25px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+#firstbgimg li {
+    display: inline;
+}
+
+#firstbgimg li a{
+    color: #06c;
+    line-height: 1em;
+    font-size: 32px;
+} 
+
+/* -----------------iPhone 14------------------- */
+
+#secondbgimg {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-image: url(./ppp/hero_iphone14__fjmsqstr1ceq_large.jpg);
+    height: 550px;
+    width: 100%;
+    background-position: center;
+    padding-top: 80px;
+    margin-bottom: 10px;
+}
+
+#secondbgimg h1 {
+    font-size: 50px;
+}
+
+#secondbgimg p {
+    font-size: 35px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#secondbgimg li {
+    display: inline;
+}
+
+#secondbgimg li a{
+    color: rgb(6, 93, 180);
+    line-height: 2em;
+    font-size: 40px;
+} 
+
+
+/* ---------------Watch Series 8--------------- */
+
+#thirdbgimg {
+    color: rgb(255, 255, 255);
+    background-image: url(./ppp/hero_apple_watch_series_8__bjc1ok5mkjua_small.jpg);
+    height: 550px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 90px;
+    margin-bottom: 5px;
+}
+
+#thirdbgimg p {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+#thirdbgimg li {
+    display: inline;
+}
+
+#thirdbgimg li a{
+    color: #06c;
+    line-height: 0cm;
+    font-size: 25px;
+} 
+
+/* ----------------Watch Ultra----------------- */
+
+#middlearea2 {
+    margin: 0px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#forthbgimg {
+    background-image: url(./ppp/promo_apple_watch_ultra__gnsqulvdc4a6_medium.jpg);
+    color: rgb(0, 0, 0);
+    width: 49%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 30px;
+    
+}
+
+#forthbgimg p {
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#forthbgimg li {
+    display: inline;
+}
+
+#forthbgimg li a{
+    color: #06c;
+    line-height: 1em;
+    font-size: 25px;
+} 
+
+#buy {
+    margin-left: 20px;
+}
+
+.underline:hover {
+    text-decoration: underline;
+}
+
+/* ------------Fitness  + ------------- */
+
+#fifthbgimg {
+    background-image: url(./ppp/beyonce_promo__c8bt5lllfl2e_medium.jpg);
+    color: rgb(255, 255, 255);
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+#fifthbgimg p {
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+#fifthbgimg li {
+    display: inline;
+}
+
+#fifthbgimg li a{
+    color: rgb(255, 255, 255);
+    line-height: 2em;
+    font-size: 21px;
+} 
+
+/* ------------A gift for every wish------------- */
+
+#middlearea3 {
+    margin: 0px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#sixbgimg {
+    background-image: url(./ppp/promo__sw58lbodkmqq_medium.jpg);
+    color: rgb(255, 255, 255);
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+#sixbgimg h1 {
+    font-size: 38px;
+}
+#sixbgimg p {
+    font-size: 22px;
+    padding-top:10px;
+    padding-bottom: 30px;
+}
+
+#sixbgimg li {
+    display: inline;
+}
+
+#sixbgimg li a{
+    color: #ffffff;
+    line-height: 1em;
+    font-size: 20px;
+}
+
+/* ------------------Ipad------------------- */
+
+#sevenbgimg {
+    color: rgb(0, 0, 0);
+    background-image: url(./ppp/promo_ipad__fioegapg12qi_medium.jpg);
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+#sevenbgimg h1 {
+    font-size: 50px;
+}
+
+#sevenbgimg p {
+    font-size: 22px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#sevenbgimg li {
+    display: inline;
+}
+
+#sevenbgimg li a{
+    color: #06c;
+    line-height: 2em;
+    font-size: 20px;
+} 
+
+/* -----------------------Arbirde------------------------ */
+#middlearea4 {
+    margin: 0px 10px 10px 10px;
+    height: 550px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#eightbgimg {
+    background-image: url(./ppp/promo_airpods_pro_avail__gaxggskofx6y_medium.jpg);
+    color: rgb(255, 255, 255);
+    width: 49.5%;
+    background-position: center;
+     background-size: cover; 
+    padding-top: 50px;
+}
+
+#eightbgimg h1 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+#eightbgimg h5 {
+    font-size: 21px;
+    font-weight: 500;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+#eightbgimg li {
+    display: inline;
+}
+
+#eightbgimg li a{
+    color: #06c;
+    line-height: 1em;
+    font-size: 25px;
+} 
+
+/* -----------------------Card------------------------ */
+
+#ninebgimg {
+    background-image: url(./ppp/tile__cauwwcyyn9hy_medium.jpg);
+    color: rgb(0, 0, 0);
+    width: 49.5%;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+}
+
+#ninebgimg h5 {
+    font-size: 20px;
+    line-height: 1em;
+    font-weight: 100;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+
+#ninebgimg li {
+    display: inline;
+}
+
+#ninebgimg li a{
+    color: #06c;
+    line-height: 2em;
+    font-size: 25px;
+} 
+
+/* -----------------------Last  center image------------------------ */
+
+.willsmithpic {
+    width: 100%;
+}
+
+/* -----------------------Footer Paragraph------------------------ */
+
+#footer {
+    background-color: rgb(255, 255, 255);
+}
+
+#lastpara {
+    color: rgb(119, 113, 113);
+    width: 78%;
+    margin: 0 auto;
+    padding: 17px 0px 11px 0;
+    border-bottom: 1px solid rgb(148, 148, 148);
+}
+
+
+.footnotepara {
+    font-size: 15px;
+    list-style-type: none;
+    line-height: 1em;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.footnotepara a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+/* --------------------Footer Table---------------------- */
+
+#foottable {
+    color: rgb(119, 113, 113);
+    width: 78vw;
+    padding-top: 20px;
+    margin: 0 auto;
+    font-size: 13px;
+    line-height: 2em;
+}
+
+#foottable td {
+    width: 100vw;
+    padding-right: 10px;
+    margin-right: 5px;
+}
+
+.heading {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#lastarea {
+    color: rgb(119, 113, 113);
+    width: 78vw;
+    padding-top: 20px;
+    margin: 0 auto;
+    font-size: 13px;
+    line-height: 1em;
+}
+
+.mwshop{
+    border-bottom: 1px solid rgb(148, 148, 148);
+    padding-bottom: 4px;
+}
+
+.mwshop a {
+    color: #06c;
+}
+
+.lastline {
+    display: flex;
+    justify-content: space-between;
+}
+
+.privacy a {
+    color: rgb(53, 52, 52);
+    font-size: 12px;
+    border-right: 1px solid grey;
+    padding: 0px 15px 0px 15px;
+}
+
+.countryname a {
+    color: rgb(53, 52, 52);
+    font-size: 12px;
+}
